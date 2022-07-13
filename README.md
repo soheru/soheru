@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, html, css, js**
 
-- 📫 How to reach me **contact.sohail.me@gmail.com**
+- 📫 How to reach me **sohail@teamyokai.tech**
 
 - 📄 Know about my experiences [https://teamyokai.tech/resume](https://teamyokai.tech/resume)
 
