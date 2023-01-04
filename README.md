@@ -32,7 +32,7 @@
 <p><a href="https://www.buymeacoffee.com/soheru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soheru" /></a><a href="https://ko-fi.com/soheru"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="soheru" /></a></p><br><br>
 
 
-<[![Soheru's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soheru&&theme=xcode)](https://github.com/soheru)
+<[![Soheru's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soheru&&theme=xcode)](https://github.com/soheru)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheru&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
