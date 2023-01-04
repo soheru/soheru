@@ -38,5 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soheru&show_icons=true&locale=en&theme=tokyonight" alt="soheru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheru&&theme=tokyonight" alt="soheru" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=soheru&&theme=tokyonight" alt="soheru" /></p>
 
