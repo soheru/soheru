@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **python, html, css, js**
 
-- 📫 How to reach me **sohail@teamyokai.tech**
+- 📫 How to reach me **sohail@sohailkhan.in**
 
-- 📄 Know about my experiences [https://teamyokai.tech/resume](https://teamyokai.tech/resume)
+- 📄 Know about my experiences [https://sohailkhan.in/resume](https://sohailkhan.in/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
