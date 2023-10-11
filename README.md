@@ -34,7 +34,7 @@
 
 <[![Soheru's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soheru&&theme=xcode)](https://github.com/soheru)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheru&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheru&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="soheru" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soheru&show_icons=true&locale=en&theme=tokyonight" alt="soheru" /></p>
 
